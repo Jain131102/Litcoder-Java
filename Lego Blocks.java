@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main{
+    
     public static final int Max=1001;
     
     public static long modMult(long x,long y,long module)
