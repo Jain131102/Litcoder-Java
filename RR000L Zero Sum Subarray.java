@@ -34,6 +34,7 @@ public class Main {
                     s += arr.get(j);
                     if (s == 0) {
                         System.out.println("True");
+                        System.out.println(arr.size());
                         return;
                     }
                 }
