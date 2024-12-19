@@ -25,4 +25,8 @@ Feel free to browse the code for specific problems or explore the entire collect
 
 If you have solutions to the same problems or alternative approaches, please consider contributing to the repository! Fork it, create a pull request, and let's share our knowledge.
 
+## License
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
 
