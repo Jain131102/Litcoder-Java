@@ -25,14 +25,4 @@ Feel free to browse the code for specific problems or explore the entire collect
 
 If you have solutions to the same problems or alternative approaches, please consider contributing to the repository! Fork it, create a pull request, and let's share our knowledge.
 
-## Stay Updated
 
-I actively update the repository as I tackle new challenges. 
-
-**Latest Update:** RR000L Zero Sum Subarray.java (2 months ago)
-
-## Let's Connect!
-
-If you have any questions or feedback about the solutions, feel free to reach out to me. I'm always open to learning and collaborating.
-
-[Insert your GitHub or other social media profile links here]
